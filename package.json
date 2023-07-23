@@ -1,6 +1,6 @@
 {
     "name": "sodash-benny",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "description": "Sodash-Benny 是一个 JavaScript 实用工具库",
     "main": "index.js",
     "keywords": [
